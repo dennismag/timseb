@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+body {
+  background-color: #fffaf0;
+  font-family: 'Merriweather', serif;
+  font-weight:400;
+  font-size:14px;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  color: #555f74;
+  margin-left: 20px;
+}
+
+.grade {
+  font-family: 'Merriweather', serif;
+  color: #965e7f;
+  margin-left: 10px;
+  font-weight:700;
+}
+
+.joker {
+  font-family: 'Merriweather', serif;
+  color: #555f74;
+  margin-left: 60px;
+  font-weight:400;
+}
